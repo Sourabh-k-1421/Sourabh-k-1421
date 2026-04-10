@@ -1,15 +1,58 @@
-# 💫 About Me:
-Hello, My name is  Sourabh N Kamble, a Java Backend Developer from Sangli, Maharashtra, Currently Relocate to pune for better job oppunity, passionate about building scalable, efficient web applications.<br> I specialize in Java, JSP, Servlets, JDBC, and Oracle SQL,<br> with hands-on experience developing CMS modules, RESTful services, <br>and database-driven systems. During my internship at MGN Infotech, <br>I built impactful modules including a Task Management System and<br> Test Case Manager that improved bug tracking by 30%. I also published <br>a research paper on an IoT-Based Smart Safety Helmet. Currently<br> pursuing B.Tech in Computer Engineering with a 7.71 CGPA, I'm driven by<br> clean code and real-world problem-solving.<br><br>
+<!-- About Me -->
+# Hi, I'm Sourabh Kamble 👋
 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sourabh-k-1421&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sourabh-k-1421&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabh-k-1421&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Java Backend Developer** | Spring Boot · Spring Security · REST APIs · Oracle SQL
+📍 Pune, Maharashtra, India
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sourabh-k-1421&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+Results-driven Java Backend Developer with hands-on internship experience building secure, scalable REST APIs. I specialize in Spring Boot, Spring Security, JWT authentication, and role-based access control (RBAC). I enjoy architecting clean, layered backend systems that are maintainable and production-ready.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Java · SQL · JavaScript (Basic)
+
+**Backend:** Spring Boot · Spring Security · Spring Data JPA · Hibernate · JWT Auth · RBAC · JPQL · RESTful APIs · MVC · BCrypt · DTO Pattern · Soft Delete
+
+**Databases:** Oracle SQL · MySQL
+
+**Tools:** GitHub · Postman · Postman · Eclipse IDE · STS · Apache Tomcat · Oracle Toad · Git
+
+---
+
+## 🚀 Featured Project
+
+### [Finance Backend API](https://github.com/Sourabh-k-1421/finance-backend)
+Production-style REST API backend built with Java 21, Spring Boot, Spring Security & Oracle SQL.
+- 🔐 Stateless JWT auth with BCrypt encryption · 3-role RBAC (ADMIN, ANALYST, VIEWER)
+- 📊 Real-time dashboard analytics via custom JPQL aggregate queries
+- 🗂 Soft delete · global exception handling · full CRUD with multi-parameter filtering
+
+---
+
+## 💼 Experience
+
+**Software Developer Intern · MGN Infotech Pvt Ltd** *(Jan 2024 – Jun 2024)*
+- Built Task Management, Test Case Management & Leave Management systems in Java + MVC
+- Improved issue tracking efficiency by 30% through structured test case design
+- Worked in Agile sprints alongside engineers, architects, and test operators
+
+---
+
+## 📜 Certifications
+
+- SQL (Basic & Intermediate) — HackerRank
+- Java (Basic) — HackerRank
+- Internship Certificate — MGN Infotech Pvt. Ltd.
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourabh_Kamble-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sourabh-kamble-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Sourabh--k--1421-black?style=flat&logo=github)](https://github.com/Sourabh-k-1421)
+📧 Sourabhkamble1421@gmail.com · 📞 +91 9579368948
