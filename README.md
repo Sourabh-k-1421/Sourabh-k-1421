@@ -14,9 +14,9 @@ Results-driven Java Backend Developer with hands-on internship experience buildi
 
 ## 🛠 Tech Stack
 
-**Languages :** Java · SQL · JavaScript (Basic)
+**Languages : Java · SQL · JavaScript (Basic)
 
-**Data Structures & Algorithms : Arrays, Linked Lists, Stacks, Queues, Trees (BST), HashMap, Binary Search, Collection Frameworks 
+  Data Structures & Algorithms : Arrays, Linked Lists, Stacks, Queues, Trees (BST), HashMap, Binary Search, Collection Frameworks 
 
 **Backend:** Spring Boot · Spring Security · Spring Data JPA · Hibernate · JWT Auth · RBAC · JPQL · RESTful APIs · MVC · BCrypt · DTO Pattern · Soft Delete
 
